@@ -1,0 +1,50 @@
+land colony ship
+land colony ship
+land colony ship
+deploy character 0
+deploy character 1
+deploy character 2
+deploy character 3
+deploy character 4
+deploy character 5
+deploy character 6
+deploy character 7
+move unit 7 to node 1
+move unit 1 to node 2
+move unit 0 to node 3
+move unit 5 to node 4
+move unit 4 to node 5
+move unit 3 to node 6
+move unit 6 to node 7
+move unit 2 to node 8
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+list characters
